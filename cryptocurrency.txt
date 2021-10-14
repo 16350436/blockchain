@@ -1,0 +1,4 @@
+- In the crypto world, there are three important layers:
+  1. Technology (Blockchain)
+  2. Protocol (Bitcoin - BTC is not just a currency, it is an actual protocol)
+  3. Token
