@@ -7,3 +7,6 @@
   2. Block Frequency.
 - Photos: Inside one of the world’s largest bitcoin mines: https://qz.com/1055126/photos-china-has-one-of-worlds-largest-bitcoin-mines/
 - Hashrate Distribution: https://www.blockchain.com/pools
+- CPU = Central Processing Unit (General) (< 10 MH/s)
+  GPU = Graphics Processing Unit (Specialized) (< 1GH/s)
+  ASIC = Application-Specific Intergrated Circuit (Totally Specialized) (> 1,000 GH/s)
