@@ -5,3 +5,4 @@
 - Bitcoin Monetary Policy:
   1. The Halving: Number of Bitcoin released into the system, is halved every 210000 blocks.
   2. Block Frequency.
+- Photos: Inside one of the world’s largest bitcoin mines: https://qz.com/1055126/photos-china-has-one-of-worlds-largest-bitcoin-mines/
