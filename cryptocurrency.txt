@@ -10,3 +10,5 @@
 - CPU = Central Processing Unit (General) (< 10 MH/s)
   GPU = Graphics Processing Unit (Specialized) (< 1GH/s)
   ASIC = Application-Specific Intergrated Circuit (Totally Specialized) (> 1,000 GH/s)
+- 21 million is the maximum number of bitcoins that will eever be in circulation and by the year 2140 this will happen.
+- A Mempool is a storage area where transactions are stored before they are adde a block. Every participant of the P2P distributed network has their own mempool on their computer.
