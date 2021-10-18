@@ -15,3 +15,4 @@
 - The 51% attack is when a group of hidden participants with majority computational power conduct mining without announcing their version of the chain to the rest of the network. The attackers can benefit by leveraging the double-spend problem.
 - UTXO (Unspent Transaction Output): In cryptocurrencies such as Bitcoin, an unspent transaction output is an abstraction of electronic money. Each UTXO is analogous to a coin, and holds a certain amount of value in its respective currency.
 - Wallet calculate your total UTXO belonging to you.
+- Signatures & keys demo: https://andersbrownworth.com/blockchain/public-private-keys/keys
