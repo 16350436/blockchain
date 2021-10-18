@@ -14,3 +14,4 @@
 - A Mempool is a storage area where transactions are stored before they are adde a block. Every participant of the P2P distributed network has their own mempool on their computer.
 - The 51% attack is when a group of hidden participants with majority computational power conduct mining without announcing their version of the chain to the rest of the network. The attackers can benefit by leveraging the double-spend problem.
 - UTXO (Unspent Transaction Output): In cryptocurrencies such as Bitcoin, an unspent transaction output is an abstraction of electronic money. Each UTXO is analogous to a coin, and holds a certain amount of value in its respective currency.
+- Wallet calculate your total UTXO belonging to you.
