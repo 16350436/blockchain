@@ -16,3 +16,4 @@
 - UTXO (Unspent Transaction Output): In cryptocurrencies such as Bitcoin, an unspent transaction output is an abstraction of electronic money. Each UTXO is analogous to a coin, and holds a certain amount of value in its respective currency.
 - Wallet calculate your total UTXO belonging to you.
 - Signatures & keys demo: https://andersbrownworth.com/blockchain/public-private-keys/keys
+- SegWit (Segregated Witness): is the process by which the block size limit on a blockchain is increased by removing signature data from transactions that are included in each block. 
