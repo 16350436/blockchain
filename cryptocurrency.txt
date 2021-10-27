@@ -20,3 +20,4 @@
 - Bank - there is a concept of 'balance'. Transactions add or take away from that balance. In blockchain, each transaction has a life of its own and has to start from another transaction(s) and end into other transaction(s), and there is no concept of 'balance'. What a cryptocurrency wallet demonstrates is simply an aggregation of all the transactions which exist on the blockchain and include you as either a sender or recipient.
 - Fees constitute the difference between a transaction's inputs and outputs. Anything that is unused is given to the miner, and that's how you can choose what fee you want to pay.
 - Bitcoin Address is the SHA256 encrypted version of the Public Key. This is done for additional security in case the Elliptic Curve is hacked.
+- What making the blockchain a cryptocurrency is the transactions.
