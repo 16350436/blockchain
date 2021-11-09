@@ -21,3 +21,4 @@
 - Fees constitute the difference between a transaction's inputs and outputs. Anything that is unused is given to the miner, and that's how you can choose what fee you want to pay.
 - Bitcoin Address is the SHA256 encrypted version of the Public Key. This is done for additional security in case the Elliptic Curve is hacked.
 - What making the blockchain a cryptocurrency is the transactions.
+- What is Ethereum? It is a project created by Vitalik Buterin (was 19 yo). Bitcoin and Ethereum are friends, because both exist on protocol (coin), with different purpose, and Ethereum have a token while Bitcoin do not.
