@@ -1,0 +1,2 @@
+- A contract is a set of rulls that parties agrees on.
+- Read more about Bitcoin Script (Bitcoin) and Solidity (Ethereum).
