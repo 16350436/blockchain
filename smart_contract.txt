@@ -1,3 +1,4 @@
 - A contract is a set of rules that parties agree on.
 - Read more about Bitcoin Script (Bitcoin. Not Turing-Complete) and Solidity (Ethereum. Turing-Complete).
 - Turing completeness means you can program anything in that language. (Wikipedia: This means that this system is able to recognize or decide other data-manipulation rule sets).
+- Whitepaper: https://www.provenance.org/whitepaper
