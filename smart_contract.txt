@@ -4,3 +4,4 @@
 - Whitepaper: https://www.provenance.org/whitepaper
 - Decentralized Applications (DApps): DApps are often referred to as smart contracts. Example: Steemit.com.
 - How come Ethereum loop not a potential threat? If someone write a virus and send it to Blockchian, it will be in everybody computer! What if this smart contract get access to your private file? Ethereum Virtual Machine & Gas, a virtual environment isolated from your device, anything happens in the virtual environment stay their.
+- Gas and fees: https://ethereum.org/en/developers/docs/gas/
