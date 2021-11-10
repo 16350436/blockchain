@@ -8,3 +8,8 @@
 - Decentralized Autonomous Organizations (DAOs): Replacing people with smart contracts.
 - Hard Fork means that there is a new upgrade to the software on the blockchain software, which allows sending thing that not possible.
 - Ethereum Classic (2017 - Block Number: 1919999) happened because there is a DOS attack, because some miners didn't agree to return the money back.
+- In a nutshell, Vitalik Buterin trying to build with Ethereum the world's largest super-computer.
+- Smart Contract is a program (code) which is run on blockchain.
+- Gas is used by applications to pay for running operations on user machines.
+- A soft fork is backwards compatible, a hard fork is not.
+- The purpose of a whitepaper in a Blockchain project is to describe how the project is different to alternatives and how it will improve the world, to describe how the project will leverage the different properties of blockchain, and to describe why the project needs its own token (or coain) if an ICO has been proposed.
