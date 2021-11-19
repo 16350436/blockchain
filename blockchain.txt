@@ -15,3 +15,4 @@ When we talk about distributed (decentralisation), there are two main things; Se
 - It does not matter which industry you work for, all of them are trying to implement blockchain. 
 - Keywords: Confidentiality, Integrity, Non-repudiation, Authentication, Cryptograph, Encryption, Decryption.
 - Types of Cryptography: 1. Symmetric Key Cryptography:  2. Asymmetric Key Cryptography -> Private Key & Public Key
+- Types of Blockchain: 1. Public Blockchain 2. Private Blockchain 3. Federated Blockchain
