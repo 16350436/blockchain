@@ -14,3 +14,4 @@ When we talk about distributed (decentralisation), there are two main things; Se
 - Hashing means using different algorithms to generate simple hash key, it can be any algorithms, we have MD5, SHA- 256, etc. The awesome thing is that it does not matter how big your input is, you will get the same length, and for every data the key will be different, even if you change one letter.
 - It does not matter which industry you work for, all of them are trying to implement blockchain. 
 - Keywords: Confidentiality, Integrity, Non-repudiation, Authentication, Cryptograph, Encryption, Decryption.
+- Types of Cryptography: 1. Symmetric Key Cryptography:  2. Asymmetric Key Cryptography -> Private Key & Public Key
