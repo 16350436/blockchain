@@ -13,3 +13,4 @@
 - Gas is used by applications to pay for running operations on user machines.
 - A soft fork is backwards compatible, a hard fork is not.
 - The purpose of a whitepaper in a Blockchain project is to describe how the project is different to alternatives and how it will improve the world, to describe how the project will leverage the different properties of blockchain, and to describe why the project needs its own token (or coain) if an ICO has been proposed.
+- Browser-based allows writing Ethereum Smart Contract without having to set up anything on the development environment: https://remix.ethereum.org/
