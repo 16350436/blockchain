@@ -17,3 +17,4 @@
 - Bitcoin, one of revolutionary protocol using blockchain technology.
 - Ethereum released a white paper describing a new protocol called Ethereum, which used this same blockchain infrastructure but with an additional feature (people can make entirely decentralized applications and organizations and build smart contracts and engage in agreements without a third-party intermediary or centralized governing force).
 - Bitcoin developers they view the Bitcoin network as an asset, whereas Ethereum developers viewed it as an asset and also a utility.
+- Blockchain is immutable. 
