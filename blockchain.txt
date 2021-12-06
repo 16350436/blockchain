@@ -26,3 +26,4 @@ When we talk about distributed (decentralisation), there are two main things; Se
 		- For others:
 				A tool for radically reshaping society and economy taking us into a more decentralised world.
 - For the first time in human history, people anywhere can trust each other and transact with in large peer-to-peer networks without centralised management.
+- You can only write data to the database and once it is there it is very hard to change, almost impossible. Data stored on the blockchain is generally considered incorruptible.
