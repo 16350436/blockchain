@@ -25,3 +25,4 @@ When we talk about distributed (decentralisation), there are two main things; Se
 				The driving force behind the next generation of the Internet.
 		- For others:
 				A tool for radically reshaping society and economy taking us into a more decentralised world.
+- For the first time in human history, people anywhere can trust each other and transact with in large peer-to-peer networks without centralised management.
