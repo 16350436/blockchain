@@ -16,3 +16,12 @@ When we talk about distributed (decentralisation), there are two main things; Se
 - Keywords: Confidentiality, Integrity, Non-repudiation, Authentication, Cryptograph, Encryption, Decryption.
 - Types of Cryptography: 1. Symmetric Key Cryptography:  2. Asymmetric Key Cryptography -> Private Key & Public Key
 - Types of Blockchain: 1. Public Blockchain 2. Private Blockchain 3. Federated Blockchain
+- Blockchain:
+		- For developers:
+				A set of protocols and encryption technologies for securely storing data on distributed network.
+		- For business and finance:
+				A distributed ledger underlying the explosion of new digital currencies.
+		- For technologists:
+				The driving force behind the next generation of the Internet.
+		- For others:
+				A tool for radically reshaping society and economy taking us into a more decentralised world.
