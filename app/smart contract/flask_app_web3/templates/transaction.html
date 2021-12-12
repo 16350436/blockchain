@@ -1,0 +1,27 @@
+{% if not transaction %}
+<h3>Transaction with hash: '{{ hash }}' not found</h3>
+{% else %}
+<h2>TX {{ hash }}</h2>
+
+<table>
+  <tr>
+    <td><b>From:</b></td>
+    <td>{{ transaction.from }}</td>
+  </tr>
+
+  <tr>
+    <td><b>To:</b></td>
+    <td>{{ transaction.to }}</td>
+  </tr>
+
+  <tr>
+    <td><b>Gas:</b></td>
+    <td>{{ transaction.gas }}</td>
+  </tr>
+
+  <tr>
+    <td><b>Gas Price:</b></td>
+    <td>{{ transaction.gasPrice }}</td>
+  </tr>
+</table>
+{% endif %}
