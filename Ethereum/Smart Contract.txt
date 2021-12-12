@@ -19,3 +19,16 @@
 - Bitcoin developers they view the Bitcoin network as an asset, whereas Ethereum developers viewed it as an asset and also a utility.
 - Blockchain is immutable. 
 - Smart Contract may not not be 'Smart'. A lot of people have come to be calling them dumb contracts that are just algorithms that perform a function, it is not an artificial intelligence.
+
+
+
+- Normally, for any technology that you learn, the history of how it was created is not always super important. For example, when you learn about HTML, you don't always learn about who first created HTML.
+- October 31, 2008 ===> Original Bitcoin white-paper (academic document) date.
+- The only purpose of Bitcoin was to enable financial transactions. That was it. No long after its release, many people realised that they could use some of Bitcoin original innovations to not only handle the transfer of currency, but other types of exchanges as well. One person who felt very strongly about this was named Vitalik Buterin (late 2013)
+- A Smart Contract is a piece of code that lives in the Ethereum blockchain.
+- There are many different Ethereum networks.
+- The public key and the private key are used to authorize the sending of funds from your account to other accounts. So if someone does not have the private key to an account, they don't have true access to any of the funds that assigned to that account.
+- The account address, public and private key are all stored as hexadecimal numbers. (Go to Chrome > Console > <Paste the Hex numbers> > Enter > See the result of a base 10 number).
+- When signing up for an email address at Gmail and then going over Yahoo and signing up for an email address, you're creating two distinctly separate accounts. We only every are going to work with one account, but that one account is going to connect to all the different Ethereum networks that are out there (Main, Ropsten, Koven, Rinkeby).
+
+
